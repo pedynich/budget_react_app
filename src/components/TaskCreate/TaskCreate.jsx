@@ -26,12 +26,8 @@ const items = [
         getItem('Electricity', '4'),
         getItem('Education', 'sub3', null, [getItem('Option 7', '7'), getItem('Option 8', '8')]),
     ]),
-    getItem('Long Term', 'sub4', <SettingOutlined />, [
-        getItem('Option 9', '9'),
-        getItem('Option 10', '10'),
-        getItem('Option 11', '11'),
-        getItem('Option 12', '12'),
-    ]),
+    // getItem('Long Term', 'sub4', <SettingOutlined />, [
+    // ]),
 ];
 
 const rootSubmenuKeys = ['sub1', 'sub2', 'sub4'];

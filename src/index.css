@@ -19,3 +19,7 @@ input, button{
   overflow: hidden;
   padding: 28px;
 }
+.content-holder{
+  overflow: hidden;
+  padding: 28px;
+}
